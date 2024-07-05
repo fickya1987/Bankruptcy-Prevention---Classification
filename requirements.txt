@@ -1,5 +1,8 @@
 streamlit
 plotly
-pandas
 pickle
 matplotlib
+pandas
+numpy
+seaborn
+sklearn
